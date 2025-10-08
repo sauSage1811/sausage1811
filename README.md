@@ -17,7 +17,9 @@
 ### Kết nối với tôi:
 <p align="left">
 <a href="https://linkedin.com/in/sausage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sausage" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Ntds.Hn206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="đại sơn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Ntds.Hn206" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Đại Sơn" height="30" width="40" />
+</a>
 <a href="https://www.instagram.com/dsausage_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dsausage_" height="30" width="40" /></a>
 <a href="https://discord.gg/sausage1811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sausage1811" height="30" width="40" /></a>
 </p>
