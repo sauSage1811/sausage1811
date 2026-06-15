@@ -1,5 +1,4 @@
 <h1 align="center">Xin chào 👋, tôi là Đại Sơn</h1>
-<h3 align="center">Một lập trình viên đầy nhiệt huyết đến từ Việt Nam</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sausage1811&label=Profile%20views&color=0e75b6&style=flat" alt="sausage1811" />
@@ -8,7 +7,6 @@
 
 ---
 
-- 🌱 Hiện tại tôi đang theo học tại **Đại học Phenikaa**
 
 - 📫 Cách liên hệ với tôi **tipsnowntds.206@gmail.com**
 
