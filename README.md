@@ -1,4 +1,4 @@
-<h1 align="center">Xin chào 👋, tôi là Đại Sơn</h1>
+<h1 align="center">Xin chào 👋</h1>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sausage1811&label=Profile%20views&color=0e75b6&style=flat" alt="sausage1811" />
